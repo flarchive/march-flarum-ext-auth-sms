@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of march/flarum-ext-auth-sms.** Not for installation: use [Packagist](https://packagist.org/packages/march/flarum-ext-auth-sms) or the [upstream repository](https://github.com/Marchccc/flarum-ext-auth-sms).
 
-**0** versions archived · Latest: [`v0.1.0`](https://github.com/flarchive/march-flarum-ext-auth-sms/tree/archive/v0.1.0) · License: `MIT` · Flarum: `^0.1.0-beta.15`
+**1** versions archived · Latest: [`v0.1.0`](https://github.com/flarchive/march-flarum-ext-auth-sms/tree/archive/v0.1.0) · License: `MIT` · Flarum: `^0.1.0-beta.15`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.1.0` | 2021-03-08 | `^0.1.0-beta.15` | [Browse](https://github.com/flarchive/march-flarum-ext-auth-sms/tree/archive/v0.1.0) |
 
 Catalog entry: [packages/march-flarum-ext-auth-sms.json](https://github.com/flarchive/archive-index/blob/main/packages/march-flarum-ext-auth-sms.json)
 
